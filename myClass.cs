@@ -1,4 +1,5 @@
-public static void Second()
+public static void Third()
 {
-    DoSomething();
+    DoSomeOtherThing();
+    DoSomeMore();
 }
