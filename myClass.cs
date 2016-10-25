@@ -1,4 +1,5 @@
-public static void First()
+public static void FirstAndDoFeature()
 {
     DoSomething();
+    DoMyFeature();
 }
