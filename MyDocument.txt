@@ -1,4 +1,4 @@
-public static void Start()
+public static void Starter()
 {
 	DoStuff();
 }
