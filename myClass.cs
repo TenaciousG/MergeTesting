@@ -1,4 +1,4 @@
-public static void First()
+public static void Second()
 {
     DoSomething();
 }
